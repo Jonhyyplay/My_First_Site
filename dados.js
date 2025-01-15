@@ -88,4 +88,151 @@ let dados = [
         link: "https://www.tudogostoso.com.br/busca?q=Pizza",
         tags: "pizza queijo tomate itália comida italiana forno Comidas comidas",
     },
+
+    {
+        titulo: "Tacos",
+        descricao: `<h2>O Sabor do México</h2>
+        <p>Os tacos são um dos pratos mais emblemáticos da culinária mexicana. Com uma base de tortilla de milho ou trigo, os tacos podem ser recheados com uma variedade de ingredientes, como carne, frango, peixe, vegetais e molhos.</p>
+                    
+        <h2>Origem dos Tacos</h2>
+        <p>A origem dos tacos remonta às antigas civilizações mexicanas, onde as tortillas eram usadas como utensílios comestíveis para segurar alimentos. Com o tempo, os tacos evoluíram e se tornaram um símbolo da gastronomia mexicana.</p>
+                    
+        <h2>Variedades de Tacos</h2>
+        <p>Existem diferentes tipos de tacos, incluindo:
+            Tacos al Pastor: recheados com carne de porco marinada e abacaxi.
+            Tacos de Carnitas: recheados com carne de porco desfiada.
+            Tacos de Pescado: recheados com peixe grelhado ou frito.</p>`,
+        link: "https://www.tudogostoso.com.br/busca?q=Tacos",
+        tags: "tacos culinária culinaria mexicana tortilla carne frango peixe Comidas comidas",
+    },
+    {
+        titulo: "Ratatouille",
+        descricao: `<h2>O Encanto da Culinária Francesa</h2>
+        <p>O ratatouille é um prato tradicional da culinária francesa, originário da região da Provença. Feito com uma variedade de legumes como berinjela, abobrinha, pimentão e tomate, o ratatouille é um prato colorido e saudável.</p>
+                    
+        <h2>Origem do Ratatouille</h2>
+        <p>O ratatouille surgiu como um prato camponês, onde os agricultores utilizavam os legumes da estação para preparar uma refeição nutritiva. Com o tempo, o ratatouille se tornou um símbolo da culinária francesa, apreciado em todo o mundo.</p>
+                    
+        <h2>Como Preparar Ratatouille</h2>
+        <p>O ratatouille pode ser preparado de diferentes maneiras, incluindo:
+            Tradicional: os legumes são cozidos lentamente até ficarem macios.
+            Assado: os legumes são dispostos em camadas e assados no forno.
+            Moderno: os legumes são cortados em rodelas finas e arranjados de forma artística.</p>`,
+        link: "https://www.tudogostoso.com.br/busca?q=Ratatouille",
+        tags: "ratatouille culinária culinaria francesa legumes berinjela abobrinha pimentão tomate Comidas comidas",
+    },
+    {
+        titulo: "Hambúrguer",
+        descricao: `<h2>O Clássico Americano</h2>
+        <p>O hambúrguer é um dos pratos mais icônicos da culinária americana. Consiste em um disco de carne moída grelhada, geralmente servido em um pão com diversos acompanhamentos como queijo, alface, tomate, picles e molhos.</p>
+                    
+        <h2>História do Hambúrguer</h2>
+        <p>A origem do hambúrguer é atribuída aos imigrantes alemães que trouxeram o "bife de Hamburgo" para os Estados Unidos no século XIX. Com o tempo, o prato evoluiu e se popularizou, tornando-se um símbolo da cultura americana.</p>
+                    
+        <h2>Variedades de Hambúrguer</h2>
+        <p>Existem diferentes tipos de hambúrguer, incluindo:
+            Cheeseburger: com uma fatia de queijo derretido.
+            Bacon Burger: com fatias de bacon crocante.
+            Veggie Burger: feito com ingredientes vegetarianos como grão-de-bico ou feijão.</p>`,
+        link: "https://www.tudogostoso.com.br/busca?q=Hambúrguer",
+        tags: "hambúrguer carne pão queijo bacon vegetariano Comidas comidas",
+    },
+    {
+        titulo: "Lasanha",
+        descricao: `<h2>O Sabor da Itália</h2>
+        <p>A lasanha é um prato tradicional italiano, composto por camadas de massa, molho de tomate, carne moída, queijo e molho bechamel. É um prato reconfortante e saboroso, apreciado em todo o mundo.</p>
+                    
+        <h2>História da Lasagna</h2>
+        <p>A lasanha tem suas raízes na Itália antiga, onde era preparada com ingredientes simples. Com o tempo, o prato evoluiu e se tornou um símbolo da culinária italiana, com diversas variações regionais.</p>
+                    
+        <h2>Variedades de Lasanha</h2>
+        <p>Existem diferentes tipos de Lasanha, incluindo:
+            Lasanha à Bolonhesa: com molho de carne moída.
+            Lasanha de Espinafre: com camadas de espinafre e ricota.
+            Lasanha de Frango: com frango desfiado e molho branco.</p>`,
+        link: "https://www.tudogostoso.com.br/busca?q=Lasagna",
+        tags: "lasanha massa queijo carne molho tomate Comidas comidas",
+    },
+    {
+        titulo: "Falafel",
+        descricao: `<h2>O Sabor do Oriente Médio</h2>
+        <p>O falafel é um prato tradicional do Oriente Médio, feito de bolinhos fritos de grão-de-bico ou fava, temperados com ervas e especiarias. É geralmente servido em pão pita com salada e molho tahine.</p>
+                    
+        <h2>História do Falafel</h2>
+        <p>A origem do falafel é incerta, mas acredita-se que tenha surgido no Egito antigo. Com o tempo, o prato se espalhou por todo o Oriente Médio, tornando-se um alimento popular de rua.</p>
+                    
+        <h2>Variedades de Falafel</h2>
+        <p>Existem diferentes tipos de falafel, incluindo:
+            Falafel de Grão-de-Bico: a versão mais comum, feita com grão-de-bico.
+            Falafel de Fava: feito com favas moídas.
+            Falafel Misto: uma combinação de grão-de-bico e fava.</p>`,
+        link: "https://www.tudogostoso.com.br/busca?q=Falafel",
+        tags: "falafel grão-de-bico fava pita salada tahine Comidas comidas",
+    },
+    {
+        titulo: "Brigadeiro",
+        descricao: `<h2>O Doce Brasileiro</h2>
+        <p>O brigadeiro é um doce tradicional brasileiro, feito com leite condensado, chocolate em pó, manteiga e granulado. É um doce popular em festas de aniversário e celebrações.</p>
+                    
+        <h2>História do Brigadeiro</h2>
+        <p>O brigadeiro surgiu na década de 1940, durante a campanha presidencial do Brigadeiro Eduardo Gomes. O doce foi criado como uma forma de arrecadar fundos para a campanha e rapidamente se tornou popular.</p>
+                    
+        <h2>Como Fazer Brigadeiro</h2>
+        <p>Para fazer brigadeiro, basta misturar leite condensado, chocolate em pó e manteiga em uma panela, cozinhar até desgrudar do fundo e enrolar em bolinhas, passando no granulado.</p>`,
+        link: "https://www.tudogostoso.com.br/busca?q=Brigadeiro",
+        tags: "brigadeiro doce chocolate leite condensado festa aniversário Comidas comidas",
+    },
+    {
+        titulo: "Pão de Queijo",
+        descricao: `<h2>O Sabor de Minas Gerais</h2>
+        <p>O pão de queijo é um quitute tradicional de Minas Gerais, feito com polvilho, queijo, leite, ovos e óleo. É um lanche popular em todo o Brasil, apreciado por sua textura macia e sabor de queijo.</p>
+                    
+        <h2>História do Pão de Queijo</h2>
+        <p>O pão de queijo tem suas raízes na culinária mineira, onde era preparado com ingredientes locais. Com o tempo, o quitute se espalhou por todo o Brasil, tornando-se um lanche amado por todos.</p>
+                    
+        <h2>Como Fazer Pão de Queijo</h2>
+        <p>Para fazer pão de queijo, basta misturar polvilho, queijo ralado, leite, ovos e óleo, formar bolinhas e assar até dourar.</p>`,
+        link: "https://www.tudogostoso.com.br/busca?q=Pão+de+Queijo",
+        tags: "pão de queijo polvilho queijo lanche mineiro Comidas comidas",
+    },
+    {
+        titulo: "Coxinha",
+        descricao: `<h2>O Salgado Brasileiro</h2>
+        <p>A coxinha é um salgado tradicional brasileiro, feito com massa de farinha de trigo e recheio de frango desfiado, moldado em forma de coxa de frango e frito até ficar crocante.</p>
+                    
+        <h2>História da Coxinha</h2>
+        <p>A coxinha surgiu no século XIX, em São Paulo, como uma forma de aproveitar sobras de frango. O salgado rapidamente se popularizou e se tornou um dos salgados mais amados do Brasil.</p>
+                    
+        <h2>Como Fazer Coxinha</h2>
+        <p>Para fazer coxinha, basta preparar uma massa com farinha de trigo e caldo de frango, rechear com frango desfiado, moldar em forma de coxa, empanar e fritar até dourar.</p>`,
+        link: "https://www.tudogostoso.com.br/busca?q=Coxinha",
+        tags: "coxinha salgado frango lanche festa Comidas comidas",
+    },
+    {
+        titulo: "Acarajé",
+        descricao: `<h2>O Sabor da Bahia</h2>
+        <p>O acarajé é um prato tradicional da culinária baiana, feito com bolinhos de feijão-fradinho fritos no azeite de dendê e recheados com vatapá, caruru, camarão e pimenta.</p>
+                    
+        <h2>História do Acarajé</h2>
+        <p>O acarajé tem suas raízes na culinária africana, trazida ao Brasil pelos escravos. O prato se tornou um símbolo da culinária baiana e é vendido em tabuleiros pelas baianas de acarajé.</p>
+                    
+        <h2>Como Fazer Acarajé</h2>
+        <p>Para fazer acarajé, basta preparar uma massa com feijão-fradinho, moldar em bolinhos, fritar no azeite de dendê e rechear com vatapá, caruru, camarão e pimenta.</p>`,
+        link: "https://www.tudogostoso.com.br/busca?q=Acarajé",
+        tags: "acarajé baiano feijão-fradinho vatapá caruru camarão pimenta Comidas comidas",
+    },
+    {
+        titulo: "Tapioca",
+        descricao: `<h2>O Sabor do Nordeste</h2>
+        <p>A tapioca é um prato tradicional do Nordeste brasileiro, feito com goma de mandioca hidratada, que é espalhada em uma frigideira quente até formar uma espécie de panqueca. Pode ser recheada com ingredientes doces ou salgados.</p>
+                    
+        <h2>História da Tapioca</h2>
+        <p>A tapioca tem suas raízes na culinária indígena brasileira, onde a mandioca era um alimento básico. Com o tempo, a tapioca se tornou um prato popular em todo o Brasil, apreciado por sua versatilidade.</p>
+                    
+        <h2>Como Fazer Tapioca</h2>
+        <p>Para fazer tapioca, basta espalhar a goma de mandioca hidratada em uma frigideira quente, cozinhar até formar uma panqueca e rechear com ingredientes de sua preferência.</p>`,
+        link: "https://www.tudogostoso.com.br/busca?q=Tapioca",
+        tags: "tapioca goma de mandioca nordeste panqueca doce salgado Comidas comidas",
+    }
+    
 ];
