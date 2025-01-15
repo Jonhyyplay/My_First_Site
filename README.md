@@ -7,7 +7,7 @@ Este projeto te convida a embarcar em uma deliciosa aventura culinária!  O Busc
 - ### Busca Intuitiva: Digite o que você procura na barra de pesquisa e clique em "Buscar".
 - ### Resultados Instantâneos: A mágica acontece! Os resultados da sua busca aparecerão logo abaixo, com um link direto para a receita completa.
 - ### Explorando Sabores: Descubra um mundo de receitas e ingredienma representaçõtes, do clássico ao exótico!
-(No momento, tem presente 16 alimentos a ser pesquisadas)
+(Tem presente 16 alimentos a serem pesquisados. Fique a vontade!)
 
 ## Tecnologias Utilizadas
 - ### HTML: A estrutura básica do nosso site, como um esqueleto que dá forma a tudo.
